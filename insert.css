@@ -1,0 +1,435 @@
+/*Text In Header*/
+#text {
+  position: absolute;
+  left: 28px;
+  top: 15px;
+  width: 540px;
+  height: 48px;
+  z-index: 16;
+  font-size: 47px;
+  font-family: 'Dosis', sans-serif;
+  color: #ffffff;
+
+}
+
+/*Dark Gray Header*/
+#header {
+    /*background: #272423;*/
+    background: #2A2B2E;
+    height: 242px;
+    margin-bottom: 6px;
+    color: white;
+    font-family: 'Abel', sans-serif;
+    font-size: 66px; 
+    font-weight: 758; 
+    box-shadow: 1px 4px 30px 7px rgba(0,0,0, 0.50);
+
+}
+
+/*Element Tag*/
+#tag {
+  position: absolute;
+  left: 568px;
+  top: 13px;
+  right: 68px;
+}
+
+/*Dev-Black*/
+#content {
+  position: absolute;
+  left: 28px;
+  top: 225px;  
+
+}
+
+#about-text {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+  -moz-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  -webkit-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  -ms-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  position: absolute;
+  left: 1.25px;
+  top: 689px;
+  margin: 0%;
+}
+
+/*Внутрений текст*/
+#inside-text {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+  text-align: left;
+  -moz-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  -webkit-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  -ms-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  position: absolute;
+  left: 635px;
+  top: 340px;
+}
+ 
+/*ДЕНЬ ПОГРАММИСТОВ*/
+#text-headline {
+  text-align: left;
+  font-size: 48px;
+  font-family: 'Exo 2', sans-serif;
+  color: rgb(255, 254, 254);
+  text-align: left;
+  position: absolute;
+  left: 817px;
+  top: 247px;
+  width: 440px;
+  height: 48px;
+  z-index: 19;
+  line-height: auto;
+}
+
+/*---*/
+#text-continue {
+  line-height: auto;
+  color: #ffffff;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 48px;
+  position: absolute;
+  left: 950px;
+  top: 247px;
+  
+}
+
+/*Новый Абзац*/
+#web-development {
+  min-height: 0px;
+  color: #ffffff;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 48px;
+  position: absolute;
+  left: 74px;
+  top: 992px;
+  margin: 0px 0px 0px 0px;
+}
+
+#gamedev-headline {
+  left: 817px;
+  top: 1799px;
+  color: #ffffff;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 48px;
+  position: absolute;
+}
+
+#game-text {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+  text-align: left;
+  -moz-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  -webkit-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  -ms-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  position: absolute;
+  left: 635px;
+  top: 1900px;
+}
+
+#gamepad {
+  position: absolute;
+  left: 28px;
+  top: 1900px;
+}
+/*tag img href*/
+#web-tag {
+  position: absolute;
+  left: 910px;
+  top: 1030px;
+  margin: 0px;
+  
+}
+
+a.author {
+  position: absolute;
+  left: 6px;
+  top: 1060px;
+  color: #2A2B2E;
+}
+a:hover {
+  color: #505050;
+}
+
+
+#third-text {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+  text-align: left;
+  -moz-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  -webkit-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  -ms-transform: matrix( 0.9128188029145,0,0,0.9128188029145,0,0);
+  position: absolute;
+  left: 1px;
+  top: 1125px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 700px 0px 0px;
+}
+
+#ibm-ai {
+  position: absolute;
+  left: 880px;
+  top: 3100px;
+  margin: 0px;
+}
+
+#ai-headline {
+  color: #ffffff;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 48px;
+  position: absolute;
+  left: 28px;
+  top: 2000px;
+}
+/*Ссылки*/
+a {
+  text-decoration: none;
+  color: #2A2B2E; }
+
+a.firstimg {
+  position: absolute;
+  left: 180px;
+  top: 520px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+
+a:hover {
+  color: #505050;
+}
+
+a.href-1 {
+  position: absolute;
+  left: 4px;
+  top: 402px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+ 
+a:hover {
+  color: #505050;
+}
+
+a.href-2 {
+  position: absolute;
+  left: 4px;
+  top: 442px;
+  text-decoration: none;
+  color: #2A2B2E; }
+
+  a.href-3 {
+  position: absolute;
+  left: 4px;
+  top: 482px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+ 
+a:hover {
+  color: #505050;
+}
+
+a.href-4 {
+  position: absolute;
+  left: 4px;
+  top: 522px;
+  text-decoration: none;
+  color: #2A2B2E; }
+ 
+a:hover {
+  color: #505050;
+}
+
+a.href-5 {
+  position: absolute;
+  left: 4px;
+  top: 562px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+ 
+a:hover {
+  color: #505050;
+}
+
+a.href-6 {
+  position: absolute;
+  left: 4px;
+  top: 596px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+ 
+a:hover {
+  color: #505050;
+}
+
+/*Commercial Image*/
+a.author{
+  position: absolute;
+  left: 43px;
+  top: 560px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+ 
+a:hover {
+  color: #505050;
+}
+/*C#*/
+a.g1{
+  position: absolute;
+  left: 28px;
+  top: 2420px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+ 
+a:hover {
+  color: #505050;
+}
+/*C++*/
+a.g2{
+  position: absolute;
+  left: 79px;
+  top: 2420px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+/*Java*/
+a.g3{
+  position: absolute;
+  left: 140px;
+  top: 2420px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+
+a:hover {
+  color: #505050;
+}
+
+a.g4{
+  position: absolute;
+  left: 196px;
+  top: 2420px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+
+a:hover {
+  color: #505050;
+}
+
+a.g5{
+  position: absolute;
+  left: 28px;
+  top: 2446px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+
+a:hover {
+  color: #505050;
+}
+
+a.g6{
+  position: absolute;
+  left: 28px;
+  top: 2476px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+
+a:hover {
+  color: #505050;
+}
+
+a.g7{
+  position: absolute;
+  left: 28px;
+  top: 2506px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+
+a:hover {
+  color: #505050;
+}
+
+a.g8{
+  position: absolute;
+  left: 28px;
+  top: 2536px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+
+a:hover {
+  color: #505050
+}
+
+a.g9{
+  position: absolute;
+  left: 28px;
+  top: 2566px;
+  text-decoration: none;
+  color: #2A2B2E;
+}
+
+a:hover {
+  color: #505050}
+/*Конец ссылок*/
+
+/*ДЕНЬ ПРОГРАММИСТОВ*/
+body {
+     /*Background*/
+ background-color: #757575;
+ margin: 0%;
+ 
+ 
+      /*Text*/
+ font-family: 'Abel', sans-serif;
+ font-family: 'Muli', sans-serif;    
+ font-family: 'Montserrat', sans-serif;
+ color: #414141; 
+ font-size: 26px;
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+}
